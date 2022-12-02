@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "patients":[
+    {
+      "id": 1,
+      "firstName": "Brian",
+    "lastName": "Omondi",
+    "ward": "A"
+    },
+
+    {
+      "id": 2,
+      "firstName": "Mercy",
+      "lastName": "Wanjiru",
+      "ward": "B"
+    },
+    {
+      "id": 3,
+      "firstName": "Frank",
+      "lastName": "Mutisya",
+      "ward": "B"
+    }
+  ]
+}
